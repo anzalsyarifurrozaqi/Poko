@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Mushroom_Head_Mat
+  m_Shader: {fileID: -6465566751694194690, guid: d3d119324194b8c4cb3dc8c09df71555,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_22ef10e2a0dd4e9b8a233e9fe0d91ee6: 4.93
+    - Vector1_394e784b2fb441e988d6db0a2378946f: 0
+    - Vector1_8a5abb9d30654b8f95e4ef6f3c4ceca8: 0.38
+    - Vector1_9b442a22179a47d0bf15816992f2d86c: 0.376
+    - Vector1_da9a02bd0f7b4f0a94064d8d6035bb10: -0.557
+    m_Colors:
+    - Color_02e8a1e0568b4f15879618300a0571b9: {r: 0, g: 0, b: 0, a: 1}
+    - Color_17867976891f45fda1b48813cccc4aec: {r: 1, g: 0, b: 0, a: 1}
+    - Color_8f6ceb1c80ec42e3bf6814c21a18a102: {r: 0.6132076, g: 0.031817377, b: 0.031817377,
+        a: 1}
+    - Color_e3ee08625b7b47b7ad60c5799208f503: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []

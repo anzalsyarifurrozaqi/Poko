@@ -1,0 +1,16 @@
+﻿using System.Collections.Generic;
+using UnityEngine;
+
+namespace anzal.game
+{
+    public class CharacterUpdateList : ScriptableObject
+    {
+        public List<System.Type> UpdateType = new List<System.Type>();
+
+        public virtual List<System.Type> GetList()
+        {
+            throw new System.NotImplementedException();
+        }
+    }
+
+}
